@@ -1,0 +1,6 @@
+.app { max-width: 600px; margin: 40px auto; font-family: sans-serif; }
+.form, .filters { display: flex; gap: 8px; margin-bottom: 12px; }
+li { display: flex; gap: 8px; align-items: center; margin: 6px 0; }
+span { flex: 1; cursor: pointer; }
+.done { text-decoration: line-through; color: gray; }
+button { cursor: pointer; }
